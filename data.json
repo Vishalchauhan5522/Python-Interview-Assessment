@@ -1,0 +1,5 @@
+{
+  "apiKey": "b667db2e2f110c539a72d046",
+  "website" : "https://uk.investing.com/commodities/us-sugar-no11-historical-data",
+  "rate_exchange" : "https://v6.exchangerate-api.com/v6/{api_key}/latest/USD"
+}
