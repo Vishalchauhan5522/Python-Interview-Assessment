@@ -41,6 +41,8 @@ In the \`data.json\` file, update the **apiKey** with your own API key from [Exc
   "rate_exchange": "https://v6.exchangerate-api.com/v6/{api_key}/latest/USD"
 }
 ```
+For a time being, a valid api_key is provided in json already, since its a free version api_key. 
+Replace with your api_key, if and when API hits failing due to free hits being exhausted.
 
 ### Step 4: Run the Script 🚀
 
